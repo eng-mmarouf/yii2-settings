@@ -1,0 +1,25 @@
+{
+    "name": "mmarouf/yii2-settings",
+    "description": "Yii2 Database settings",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "config",
+        "settings"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Motaz Marouf",
+            "email": "enjoy-life@hotmail.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "mmarouf\\settings\\": ""
+        }
+    }
+}
