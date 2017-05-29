@@ -10,7 +10,7 @@ namespace mmarouf\settings\controllers;
 use Yii;
 use mmarouf\settings\models\Setting;
 use mmarouf\settings\models\SettingSearch;
-use mmarouf\grid\actions\ToggleAction;
+use pheme\grid\actions\ToggleAction;
 use yii\filters\AccessControl;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
